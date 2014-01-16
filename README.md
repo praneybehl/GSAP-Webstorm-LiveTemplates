@@ -117,7 +117,7 @@ TweenMax.fromTo(element, 1, {fromVars}, {toVars});
 .fromTo(element, 1, {vars});
 ```
 
-`stg2 + [Tab]` - Creates a staggerTo( ) Template.
+`stgt + [Tab]` - Creates a staggerTo( ) Template.
 
 ```
 staggerTo(element, 1, {vars}, 0)
@@ -148,7 +148,7 @@ TimelineLite.from(element, 1, {vars});
 TimelineLite.fromTo(element, 1, {fromVars}, {toVars});
 ```
 
-`tlm2 + [Tab]` - Create a TimelineMax.to( ) Template.
+`tlmt + [Tab]` - Create a TimelineMax.to( ) Template.
 ```
 TimelineMax.to(element, 1, {vars});
 ```
