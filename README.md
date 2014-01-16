@@ -6,7 +6,7 @@ Live templates to be used in WebStorm with GreenSock Animation Platform (GSAP JS
 
 ##Introduction
 
-This repository contains LiveTemplates for [GSAP](http://www.greensock.com/) to be used with [JetBrains](http://www.jetbrains.com/) products such as [IntelliJ](http://www.jetbrains.com/idea/) or [WebStorm](http://www.jetbrains.com/webstorm/).
+This repository contains LiveTemplates for [GSAP](http://www.greensock.com/) to be used with [JetBrains](http://www.jetbrains.com/) products such as [WebStorm](http://www.jetbrains.com/webstorm/).
 
 Live Templates are a set of abbreviations that expand in to 'code snippets' for common tasks such as creating variables and functions. These abbreviations significantly speed up development and reduce coding errors.
 
