@@ -65,54 +65,54 @@ TimelineLite
 TimelineMax
 ```
 
-`twl2 + [Tab]` - Creates a TweenLite.to( ) Template.
+`twlt + [Tab]` - Creates a TweenLite.to( ) Template.
 
 ```
 TweenLite.to(element, 1, {vars});
 ```
 
-`twl4 + [Tab]` - Creates a TweenLite.from( ) Template.
+`twlf + [Tab]` - Creates a TweenLite.from( ) Template.
 
 ```
 TweenLite.from(element, 1, {vars});
 ```
 
-`twl42 + [Tab]` - Creates a TweenLite.fromTo( ) Template.
+`twlft + [Tab]` - Creates a TweenLite.fromTo( ) Template.
 
 ```
 TweenLite.fromTo(element, 1, {fromVars}, {toVars});
 ```
 
-`twm2 + [Tab]` - Creates a TweenMax.to( ) Template.
+`twmt + [Tab]` - Creates a TweenMax.to( ) Template.
 ```
 TweenMax.to(element, 1, {vars});
 ```
 
-`twm4 + [Tab]` - Creates a TweenMax.from( ) Template.
+`twmf + [Tab]` - Creates a TweenMax.from( ) Template.
 
 ```
 TweenMax.from(element, 1, {vars});
 ```
 
-`twm42 + [Tab]` - Creates a TweenMax.fromTo( ) Template.
+`twmft + [Tab]` - Creates a TweenMax.fromTo( ) Template.
 
 ```
 TweenMax.fromTo(element, 1, {fromVars}, {toVars});
 ```
 
-`.2 + [Tab]` - Creates a .to( ) Template.
+`.t + [Tab]` - Creates a .to( ) Template.
 
 ```
 .to(element, 1, {vars});
 ```
 
-`.4 + [Tab]` - Creates a .from( ) Template.
+`.f + [Tab]` - Creates a .from( ) Template.
 
 ```
 .from(element, 1, {vars});
 ```
 
-`.42 + [Tab]` - - Creates a .fromTo( ) Template.
+`.ft + [Tab]` - - Creates a .fromTo( ) Template.
 ```
 .fromTo(element, 1, {vars});
 ```
@@ -123,27 +123,27 @@ TweenMax.fromTo(element, 1, {fromVars}, {toVars});
 staggerTo(element, 1, {vars}, 0)
 ```
 
-`stg4 + [Tab]` - Creates a staggerFrom( ) Template.
+`stgf + [Tab]` - Creates a staggerFrom( ) Template.
 ```
 staggerFrom(element, 1, {vars}, 0)
 ```
 
-`stg42 + [Tab]` - Creates a staggerFromTo( ) Template.
+`stgft + [Tab]` - Creates a staggerFromTo( ) Template.
 ```
 staggerFromTo(element, 1, {fromVars}, {toVars}, 0);
 ```
 
-`tll2 + [Tab]` - Create a TimelineLite.to( ) Template.
+`tllt + [Tab]` - Create a TimelineLite.to( ) Template.
 ```
 TimelineLite.to(element, 1, {vars});
 ```
 
-`tll4 + [Tab]` - Create a TimelineLite.from( ) Template.
+`tllf + [Tab]` - Create a TimelineLite.from( ) Template.
 ```
 TimelineLite.from(element, 1, {vars});
 ```
 
-`tll42 + [Tab]` - Create a TimelineLite.fromTo( ) Template.
+`tllft + [Tab]` - Create a TimelineLite.fromTo( ) Template.
 ```
 TimelineLite.fromTo(element, 1, {fromVars}, {toVars});
 ```
@@ -153,12 +153,12 @@ TimelineLite.fromTo(element, 1, {fromVars}, {toVars});
 TimelineMax.to(element, 1, {vars});
 ```
 
-`tlm4 + [Tab]` - Create a TimelineLite.from( ) Template.
+`tlmf + [Tab]` - Create a TimelineLite.from( ) Template.
 ```
 TimelineMax.from(element, 1, {vars});
 ```
 
-`tlm42 + [Tab]` - Create a TimelineLite.fromTo( ) Template.
+`tlmft + [Tab]` - Create a TimelineLite.fromTo( ) Template.
 ```
 TimelineMax.fromTo(element, 1, {fromVars}, {toVars});
 ```
@@ -173,17 +173,17 @@ set(elem, {vars})
 kill({vars}, targetObject)
 ```
 
-`+tw + [Tab]` - add a tween to the end of the timeline.
+`atw + [Tab]` - add a tween to the end of the timeline.
 ```
 add( TweenLite.to(element, 1, {vars}) );
 ```
 
-`+tl + [Tab]` - add a timeline to the end of the timeline.
+`atl + [Tab]` - add a timeline to the end of the timeline.
 ```
 add( TimelineLite.to(element, 1, {vars}) );
 ```
 
-`+lb +[Tab]` - add a label at a position to timeline.
+`alb +[Tab]` - add a label at a position to timeline.
 ```
 add("myLabel", 2);
 ```
