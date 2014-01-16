@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="GSAPLiveTemplates">
-  <template name="twl2" value="TweenLite.to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TweenLite.to( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="twlt" value="TweenLite.to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TweenLite.to( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -22,7 +22,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="twl4" value="TweenLite.from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TweenLite.from( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="twlf" value="TweenLite.from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TweenLite.from( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -44,7 +44,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="twm2" value="TweenMax.to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TweenMax.to( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="twmt" value="TweenMax.to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TweenMax.to( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -66,7 +66,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="twm4" value="TweenMax.from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TweenMax.from( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="twmf" value="TweenMax.from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TweenMax.from( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -88,7 +88,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="twl42" value="TweenLite.fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP TweenLite.fromTo( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="twlft" value="TweenLite.fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP TweenLite.fromTo( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
@@ -111,7 +111,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="twm42" value="TweenMax.fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP TweenMax.fromTo( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="twmft" value="TweenMax.fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP TweenMax.fromTo( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
@@ -134,7 +134,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name=".2" value=".to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP .to( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name=".t" value=".to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP .to( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -156,7 +156,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name=".4" value=".from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP .from( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name=".f" value=".from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP .from( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -178,7 +178,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name=".42" value=".fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP .fromTo( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name=".ft" value=".fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP .fromTo( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
@@ -201,7 +201,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="stg2" value="staggerTo($elem$, $duration$, {$vars$}, 0)&#10;" description="Creates a Simple GSAP staggerTo( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="stgt" value="staggerTo($elem$, $duration$, {$vars$}, 0)&#10;" description="Creates a Simple GSAP staggerTo( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -223,7 +223,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="stg4" value="staggerFrom($elem$, $duration$, {$vars$}, 0)&#10;" description="Creates a Simple GSAP staggerFrom( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="stgf" value="staggerFrom($elem$, $duration$, {$vars$}, 0)&#10;" description="Creates a Simple GSAP staggerFrom( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -245,7 +245,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="stg42" value="staggerFromTo($elem$, $duration$, {$fromVars$}, {$toVars$}, 0);&#10;" description="Creates a Simple GSAP staggerFromTo( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="stgft" value="staggerFromTo($elem$, $duration$, {$fromVars$}, {$toVars$}, 0);&#10;" description="Creates a Simple GSAP staggerFromTo( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
@@ -289,7 +289,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tll2" value="TimelineLite.to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TimelineLite.to( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="tllt" value="TimelineLite.to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TimelineLite.to( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -311,7 +311,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tll4" value="TimelineLite.from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TimelineLite.from( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="tllf" value="TimelineLite.from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TimelineLite.from( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -333,7 +333,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tll42" value="TimelineLite.fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP TimelineLite.fromTo( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="tllft" value="TimelineLite.fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP TimelineLite.fromTo( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
@@ -356,7 +356,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tlm42" value="TimelineMax.fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP TimelineMax.fromTo( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="tlmft" value="TimelineMax.fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP TimelineMax.fromTo( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
@@ -379,7 +379,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tlm2" value="TimelineMax.to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TimelineMax.to( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="tlmt" value="TimelineMax.to($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TimelineMax.to( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -401,7 +401,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tlm4" value="TimelineMax.from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TimelineMax.from( ) Template" toReformat="true" toShortenFQNames="true">
+  <template name="tlmf" value="TimelineMax.from($elem$, $duration$, {$vars$});&#10;" description="Creates a Simple GSAP TimelineMax.from( ) Template" toReformat="true" toShortenFQNames="true">
     <variable name="elem" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
@@ -444,7 +444,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="+tw" value="add( Tween$Lite$.$to$($element$, $duration$, {$vars$}) );" description="add a tween to the end of the timeline" toReformat="false" toShortenFQNames="true">
+  <template name="atw" value="add( Tween$Lite$.$to$($element$, $duration$, {$vars$}) );" description="add a tween to the end of the timeline" toReformat="false" toShortenFQNames="true">
     <variable name="Lite" expression="" defaultValue="&quot;Lite&quot;" alwaysStopAt="true" />
     <variable name="to" expression="" defaultValue="&quot;to&quot;" alwaysStopAt="true" />
     <variable name="element" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
@@ -468,7 +468,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="+tl" value="add( Timeline$Lite$.$to$($element$, $duration$, {$vars$}) );" description="add a timeline to the end of the timeline" toReformat="false" toShortenFQNames="true">
+  <template name="atl" value="add( Timeline$Lite$.$to$($element$, $duration$, {$vars$}) );" description="add a timeline to the end of the timeline" toReformat="false" toShortenFQNames="true">
     <variable name="Lite" expression="" defaultValue="&quot;Lite&quot;" alwaysStopAt="true" />
     <variable name="to" expression="" defaultValue="&quot;to&quot;" alwaysStopAt="true" />
     <variable name="element" expression="" defaultValue="&quot;element&quot;" alwaysStopAt="true" />
@@ -492,7 +492,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="+lb" value="add(&quot;$myLabel$&quot;, $position$);" description="add a label at a position to timeline." toReformat="true" toShortenFQNames="true">
+  <template name="alb" value="add(&quot;$myLabel$&quot;, $position$);" description="add a label at a position to timeline." toReformat="true" toShortenFQNames="true">
     <variable name="myLabel" expression="" defaultValue="&quot;myLabel&quot;" alwaysStopAt="true" />
     <variable name="position" expression="" defaultValue="&quot;2&quot;" alwaysStopAt="true" />
     <context>
