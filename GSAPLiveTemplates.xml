@@ -5,16 +5,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -27,16 +28,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -49,16 +51,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -71,16 +74,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -94,16 +98,17 @@
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
     <variable name="toVars" expression="" defaultValue="&quot;toVars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -117,16 +122,17 @@
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
     <variable name="toVars" expression="" defaultValue="&quot;toVars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -139,16 +145,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -161,21 +168,22 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="DART" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="DART" value="false" />
       <option name="CoffeeScript" value="true" />
-      <option name="HAML" value="true" />
-      <option name="JADE" value="true" />
-      <option name="OTHER" value="true" />
+      <option name="HAML" value="false" />
+      <option name="JADE" value="false" />
+      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name=".ft" value=".fromTo($elem$, $duration$, {$fromVars$}, {$toVars$});&#10;" description="Creates a Simple GSAP .fromTo( ) Template" toReformat="true" toShortenFQNames="true">
@@ -184,16 +192,17 @@
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
     <variable name="toVars" expression="" defaultValue="&quot;toVars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -206,16 +215,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -228,16 +238,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -251,16 +262,17 @@
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
     <variable name="toVars" expression="" defaultValue="&quot;toVars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -272,16 +284,17 @@
     <variable name="elem" expression="" defaultValue="&quot;elem&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -294,16 +307,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -316,16 +330,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -339,16 +354,17 @@
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
     <variable name="toVars" expression="" defaultValue="&quot;toVars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -362,16 +378,17 @@
     <variable name="fromVars" expression="" defaultValue="&quot;fromVars&quot;" alwaysStopAt="true" />
     <variable name="toVars" expression="" defaultValue="&quot;toVars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -384,16 +401,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -406,16 +424,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -427,16 +446,17 @@
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <variable name="targetObject" expression="" defaultValue="&quot;targetObject&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -451,16 +471,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -475,16 +496,17 @@
     <variable name="duration" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="vars" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -496,16 +518,17 @@
     <variable name="myLabel" expression="" defaultValue="&quot;myLabel&quot;" alwaysStopAt="true" />
     <variable name="position" expression="" defaultValue="&quot;2&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -515,16 +538,17 @@
   </template>
   <template name="twl" value="TweenLite" description="Types TweenLite" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -534,16 +558,17 @@
   </template>
   <template name="twm" value="TweenMax" description="Types TweenMax" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -553,16 +578,17 @@
   </template>
   <template name="tll" value="TimelineLite" description="Types TimelineLite" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -572,16 +598,17 @@
   </template>
   <template name="tlm" value="TimelineMax" description="Types TimelineMax" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="JSP" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
       <option name="DART" value="true" />
       <option name="CoffeeScript" value="true" />
       <option name="HAML" value="true" />
@@ -590,4 +617,3 @@
     </context>
   </template>
 </templateSet>
-
